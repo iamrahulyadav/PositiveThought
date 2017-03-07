@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Positive Thought</string>
+
+    <string name="statusview">statusview</string> <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+</resources>

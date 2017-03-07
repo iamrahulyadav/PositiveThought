@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/favtipCopyText" android:title="Copy Text"
+          android:showAsAction="ifRoom"
+          android:icon="@drawable/ic_action_copy"/>
+    <item android:id="@+id/favtipmenuSendbySMS" android:title="Send By SMS"
+          android:showAsAction="ifRoom" android:icon="@drawable/ic_action_read"/>
+    <item android:title="Share" android:id="@+id/favtipmenuShare"
+          android:showAsAction="ifRoom"
+          android:icon="@drawable/ic_action_share"/>
+
+</menu>

@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/src/main/res/values/data.xml -->
+    <eat-comment/>
+    <string-array name="Joke">
+		<item>
+			When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.\n\n ~Helen Keller
+		</item>
+		<item>
+			There is only one person who could ever make you happy, and that person is you.\n\n ~David Burns
+		</item>
+		<item>
+			Happiness is not a state to arrive at, but a manner of traveling.\n\n ~Margaret Lee Runbeck
+		</item>
+		<item>
+			Action may not always bring happiness; but there is no happiness without action.\n\n ~Benjamin Disraeli
+		</item>
+		<item>
+			Try not to become a man of success but a man of value.\n\n ~Albert Einstein
+		</item>
+		<item>
+			They can because they think they can.\n\n ~Virgil
+		</item>
+		<item>
+			Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.\n\n ~Thomas Jefferson
+		</item>
+		<item>
+			There is only one success--to be able to spend your life in your own way.\n\n ~Christopher Morley
+		</item>
+		<item>
+			The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.\n\n ~Vince Lombardi
+		</item>
+		<item>
+			You can find inspiration from others but determination is solely your responsibility.\n\n ~Dodinsky
+		</item>
+		<item>
+			When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.\n\n ~Henry Ford
+		</item>
+		<item>
+			\' EGO \' is the only requirement to destroy any relationship... so be the bigger person, SKIP the \' E \' and Let it \' GO \'.\n\n ~Anonymous
+		</item>
+		<item>
+			Great minds discuss ideas. Average minds discuss events. Small minds discuss people.\n\n ~Anonymous
+		</item>
+		<item>
+			It\'s not that some people have willpower and some don\'t. It\'s that some people are ready to change and others are not.\n\n ~Anonymous
+		</item>
+		<item>
+			Never test the depth of river with both the feet.\n\n ~Warren Buffet
+		</item>
+		<item>
+			Believe you can and you are halfway there.\n\n ~Theodore Roosevelt
+		</item>
+		<item>
+			The dream is not what you see in sleep, dream is which does not let you sleep.\n\n ~Dr Abdul Kalam
+		</item>
+		<item>
+			There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.\n\n ~Nelson Mandela
+		</item>
+		<item>
+			The best way to prepare for life is to begin to live.\n\n ~Elbert Hubbard
+		</item>
+		<item>
+			We make our fortunes, and we call them fate.\n\n ~Earl of Beaconsfield
+		</item>
+		<item>
+			Most successful men have not achieved their distinction by having some new talent or opportunity presented to them. They have developed the opportunity that was at hand.\n\n ~Bruce Barton
+		</item>
+		<item>
+			The biggest risk in life is not taking a risk at all.\n\n ~Anonymous
+		</item>
+		<item>
+			It is our attitude at the beginning of a difficult task which, more than anything else, will affect It\'s successful outcome.\n\n ~William James 
+		</item>
+		<item>
+			Everyone has his burden. What counts is how you carry it.\n\n ~Merle Miller
+		</item>
+		<item>
+			The state of your life is nothing more than a reflection of your state of mind.\n\n ~Dr. Wayne W. Dyer 
+		</item>
+		<item>
+			Always look at what you have left.Never look at what you have lost.\n\n ~Robert H. Schuller 
+		</item>
+		<item>
+			If you believe you can, you probably can. If you believe you won\'t, you most assuredly won\'t. Belief is the ignition switch that gets you off the launching pad.\n\n ~Denis Waitley 
+		</item>
+		<item>
+			Ability is what you\'re capable of doing. Motivation determines what you do. Attitude determines how well you do it.\n\n ~Lou Holtz 
+		</item>
+		<item>
+			Whatever is begun in anger ends in shame.\n\n ~Benjamin Franklin
+		</item>
+		<item>
+			Life is a great big canvas, and you should throw all the paint on it you can.\n\n ~Danny Kaye
+		</item>
+		<item>
+			Life consists not in holding good cards but in playing those you hold well.\n\n ~Josh Billings
+		</item>
+		<item>
+			Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.\n\n ~Buddha
+		</item>
+		<item>
+			All of the animals except for man know that the principle business of life is to enjoy it.\n\n ~Samuel Butler
+		</item>
+		<item>
+			I have not failed. I\’ve just found 10,000 ways that won\’t work.\n\n ~Thomas Edison
+		</item>
+		<item>
+			Happiness is not a destination. It is a method of life.\n\n ~Burton Hills
+		</item>
+		<item>
+			Forgiveness does not change the past, but it does enlarge the future.\n\n ~Paul Boese
+		</item>
+		<item>
+			All our dreams can come true – if we have the courage to pursue them.\n\n ~Walt Disney
+		</item>
+		<item>
+			The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.\n\n ~Helen Keller
+		</item>
+		<item>
+			And in the end, it\’s not the years in your life that count. It\’s the life in your years.\n\n ~Abraham Lincoln
+		</item>
+		<item>
+			Small deeds done are better than great deeds planned.\n\n ~Peter Marshall
+		</item>
+		<item>
+			Age wrinkles the body. Quitting wrinkles the soul.\n\n ~Douglas MacArthur
+		</item>
+		<item>
+			If my mind can conceive it, and my heart can believe it, I know I can achieve it.\n\n ~Jesse Jackson
+		</item>
+		<item>
+			We cannot direct the wind but we can adjust the sails.\n\n ~Dolly Parton
+		</item>
+		<item>
+			He who is devoid of the power to forgive, is devoid of the power to love.\n\n ~Martin Luther King, Jr.
+		</item>
+		<item>
+			There are no failures; just experiences and your reactions to them.\n\n ~Tom Krause
+		</item>
+		<item>
+			Someone’s opinion of you does not have to become your reality.\n\n ~Les Brown
+		</item>
+		<item>
+			It is the supreme art of the teacher to awaken joy in creative expression and knowledge.\n\n ~Albert Einstein
+		</item>
+		<item>
+			An eye for an eye would make the whole world blind.\n\n ~Mahatma Gandhi
+		</item>
+		<item>
+			Life\'s challenges are not supposed to paralyze you, they\'re supposed to help you discover who you are.\n\n ~Bernice Johnson Reagon
+		</item>
+		<item>
+			We would accomplish many more things if we did not think of them as impossible.\n\n ~C. Malesherbes
+		</item>
+		<item>
+			Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.\n\n ~Dale Carnegie
+		</item>
+		<item>
+			Desire is the starting point of all achievement, not a hope, not a wish, but a keen pulsating desire which transcends everything.\n\n ~Napoleon Hill
+		</item>
+		<item>
+			Happiness is a perfume you cannot pour on others without getting a few drops on yourself.\n\n ~Ralph Waldo Emerson
+		</item>
+		<item>
+			That some achieve great success, is proof to all that others can achieve it as well.\n\n ~Abraham Lincoln
+		</item>
+		<item>
+			The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.\n\n ~Winston Churchill
+		</item>
+		<item>
+			Even if you are on the right track, you\'ll get run over if you just sit there.\n\n ~Will Rogers
+		</item>
+		<item>
+			It\'s not what happens to you that determines how far you will go in life; it is how you handle what happens to you.\n\n ~Zig Ziglar
+		</item>
+		<item>
+			Any person capable of angering you becomes your master; he can anger you only when you permit yourself to be disturbed by him.\n\n ~Epictetus
+		</item>
+		<item>
+			Our ultimate freedom is the right and power to decide how anybody or anything outside ourselves will affect us.\n\n ~Stephen R. Covey
+		</item>
+		<item>
+			People who consider themselves victims of their circumstances will always remain victims unless they develop a greater vision for their lives.\n\n ~Stedman Graham
+		</item>
+		<item>
+			If you are looking for yourself, believe me, you will never find "you" because you are what you believe you can become. You, and you alone CREATE your own identity.\n\n ~Thomas D. Willhite
+		</item>
+		<item>
+			Never say anything about yourself you do not want to come true.\n\n ~Brian Tracy
+		</item>
+		<item>
+			To accomplish great things, we must not only act, but also dream; not only plan, but also believe.\n\n ~Anatole France
+		</item>
+		<item>
+			Other people\'s opinion of you does not have to become your reality.\n\n ~Les Brown
+		</item>
+		<item>
+			One of the greatest discoveries a man makes, one of his great surprises, is to find he can do what he was afraid he couldn\'t do.\n\n ~Henry Ford
+		</item>
+		<item>
+			Every person is the creation of himself, the image of his own thinking and believing. As individuals think and believe, so they are.\n\n ~Claude M. Bristol
+		</item>
+		<item>
+			People become really quite remarkable when they start thinking that they can do things. When they believe in themselves, they have the first secret of success.\n\n ~Norman Vincent Peale
+		</item>
+		<item>
+			Believe in your dreams and they may come true; believe in yourself and they will come true.\n\n ~Anonymous
+		</item>
+		<item>
+			The future belongs to those who believe in the beauty of their dreams.\n\n ~Eleanor Roosevelt
+		</item>
+		<item>
+			The only thing that stands between a man and what he wants from life is often merely the will to try it and the faith to believe that it is possible.\n\n ~David Viscott
+		</item>
+		<item>
+			Confidence comes not from always being right but from not fearing to be wrong.\n\n ~Peter T. Mcintyre
+		</item>
+		<item>
+			Experience tells you what to do; confidence allows you to do it.\n\n ~Stan Smith
+		</item>
+		<item>
+			Confidence comes from hours and days and weeks and years of constant work and dedication.\n\n ~Roger Staubach
+		</item>
+		<item>
+			Unless you try to do something beyond what you have already mastered, you will never grow.\n\n ~Ralph Waldo Emerson
+		</item>
+		<item>
+			We can choose how we want to feel, by choosing how we behave. We feel the way we behave. So if you don\’t like the way you feel, then change your behavior.\n\n ~Thomas D. Willhite
+		</item>
+		<item>
+			It\'s choice - not chance - that determines your destiny.\n\n ~Jean Nidetch
+		</item>
+		<item>
+			Do not be afraid to make decisions. Decision-making is all important. The more decisions you make, the more accurate you will become.\n\n ~Thomas D. Willhite
+		</item>
+		<item>
+			"Taking responsibility" is not hard; it is the "deciding to" take responsibility that is hard.\n\n ~Thomas D. Willhite
+		</item>
+		<item>
+			Other people and things can stop you temporarily. You\'re the only one who can do it permanently.\n\n ~Zig Ziglar
+		</item>
+		<item>
+			The men who try to do something and fail are infinitely better than those who try to do nothing and succeed.\n\n ~Lloyd Jones
+		</item>
+		<item>
+			No one can go back and make a brand new start. Anyone can start from now and make a brand new ending.\n\n ~Anonymous
+		</item>
+		<item>
+			The will to win, the desire to succeed, the urge to reach your full potential… these are the keys that will unlock the door to personal excellence.\n\n ~Eddie Robinson
+		</item>
+		<item>
+			In the confrontation between the stream and the rock, the stream always wins- not through strength but by perseverance.\n\n ~H. Jackson Brown
+		</item>
+		<item>
+			We must accept finite disappointment, but never lose infinite hope.\n\n ~Martin Luther King, Jr.
+		</item>
+		<item>
+			Enthusiasm is followed by disappointment and even depression, and then by renewed enthusiasm.\n\n ~Murray Gell-Mann
+		</item>
+		<item>
+			Hope is tomorrow\'s veneer over today\'s disappointment.\n\n ~Evan Esar
+		</item>
+		<item>
+			Expect nothing and accept everything and you will never be disappointed.\n\n ~Laurence Overmire
+		</item>
+		<item>
+			The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.\n\n ~Robert Kiyosaki
+		</item>
+		<item>
+			Rigid beliefs make disappointments seem unbearable, whereas realistic beliefs help us to accept disappointment and go on from there.\n\n ~Eileen Kennedy
+		</item>
+		<item>
+			Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.\n\n ~Epicurus
+		</item>
+		<item>
+			Some men see things as they are and say \'why\'? Others dream things that never were and say \'why not\'?\n\n ~George Bernard Shaw
+		</item>
+		<item>
+			Keep your heart open to dreams. For as long as there\'s a dream, there is hope, and as long as there is hope, there is joy in living.\n\n ~Anonymous
+		</item>
+		<item>
+			A word of encouragement during a failure is worth more than an hour of praise after success.\n\n ~Anonymous
+		</item>
+		<item>
+			If you have no one to encourage you, instead of using that as an excuse for failure, encourage yourself and use that as a reason why you must succeed.\n\n ~Kevin Ngo
+		</item>
+		<item>
+			The only good luck many great men ever had was being born with the ability and determination to overcome bad luck.\n\n ~Channing Pollock
+		</item>
+		<item>
+			If you have made mistakes, even serious ones, there is always another chance for you. What we call failure is not the falling down but the staying down.\n\n ~Mary Pickford
+		</item>
+		<item>
+			Faith is taking the first step even when you don\’t see the whole staircase.\n\n ~Martin Luther King Jr.
+		</item>
+		<item>
+			Enthusiasm is nothing more or less than faith in action.\n\n ~Henry Chester
+		</item>
+		<item>
+			I do not pray for success. I ask for faithfulness.\n\n ~Mother Teresa
+		</item>
+		<item>
+			You must not lose faith in humanity. Humanity is an ocean;if a few drops of the ocean are dirty, the ocean does not become dirty.\n\n ~Mahatma Gandhi
+		</item>
+		<item>
+			It does not matter how slowly you go as long as you do not stop.\n\n ~Confucius
+		</item>
+		<item>
+			For every minute you are angry you lose sixty seconds of happiness.\n\n ~Ralph Waldo Emerson
+		</item>
+		<item>
+			We don\'t see things as they are, we see them as we are.\n\n ~Anais Nin
+		</item>
+		<item>
+			You only live once, but if you do it right, once is enough.\n\n ~Mae West
+		</item>
+		<item>
+			Walking with a friend in the dark is better than walking alone in the light.\n\n ~Helen Keller
+		</item>
+		<item>
+			The most beautiful discovery true friends make is that they can grow separately without growing apart.\n\n ~Elizabeth Foley
+		</item>
+		<item>
+			A good friend is a connection to life, a tie to the past, a road to the future, the key to sanity in a totally insane world.\n\n ~Lois Wyse
+		</item>
+		<item>
+			The best way to cheer yourself up is to try to cheer somebody else up.\n\n ~Mark Twain
+		</item>
+		<item>
+			There is a wonderful mythical law of nature that the three things we crave most in life -- happiness, freedom, and peace of mind -- are always attained by giving them to someone else.\n\n ~Peyton Conway March
+		</item>
+		<item>
+			Kind words can be short and easy to speak, but their echoes are truly endless.\n\n ~Mother Teresa
+		</item>
+		<item>
+			People often say that motivation doesn\'t last. Well, neither does bathing - that\'s why we recommend it daily.\n\n ~Zig Ziglar
+		</item>
+		<item>
+			Failure is not a single, cataclysmic event. You don\'t fail overnight. Instead, failure is a few errors in judgment, repeated every day.\n\n ~Jim Rohn
+		</item>
+		<item>
+			Keep my word positive. Words become my behaviors. Keep my behaviors positive. Behaviors become my habits. Keep my habits positive. Habits become my values. Keep my values positive. Values become my destiny.\n\n ~Mahatma Gandhi
+		</item>
+		<item>
+			Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\n\n ~Albert Schweitzer
+		</item>
+		<item>
+			No one is in control of your happiness but you; therefore, you have the power to change anything about yourself or your life that you want to change.\n\n ~Barbara DeAngelis
+		</item>
+		<item>
+			Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.\n\n ~Helen Keller
+		</item>
+		<item>
+			Don\'t wish it were easier, wish you were better.\n\n ~Jim Rohn
+		</item>
+		<item>
+			The more you praise and celebrate your life, the more there is in life to celebrate.\n\n ~Oprah Winfrey
+		</item>
+		<item>
+			No matter what age you are, or what your circumstances might be, you are special, and you still have something unique to offer. Your life, because of who you are, has meaning.\n\n ~Barbara De Angelis
+		</item>
+		<item>
+			There are two things to aim at in life; first to get what you want, and after that to enjoy it. Only the wisest of mankind has achieved the second.\n\n ~Logan Pearsall Smith
+		</item>
+		<item>
+			Freedom is not worth having if it does not include the freedom to make mistakes.\n\n ~Mahatma Gandhi
+		</item>
+		<item>
+			Trust only movement. Life happens at the level of events, not of words. Trust movement.\n\n ~Alfred Adler
+		</item>
+		<item>
+			You have succeeded in life when all you really want is only what you really need.\n\n ~Vernon Howard
+		</item>
+		<item>
+			Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.\n\n ~John Quincy Adams
+		</item>
+		<item>
+			Opportunity is missed by most people because it is dressed in overalls and looks like work.\n\n ~Thomas Edison
+		</item>
+		<item>
+			Worry never accomplishes anything. When you have a problem, it is best to concentrate on the solution to that problem, not the problem itself.\n\n ~Thomas D. Willhite
+		</item>
+		<item>
+			When I hear somebody sigh, "Life is hard," I am always tempted to ask, "Compared to what?"\n\n ~Sydney J. Harris
+		</item>
+		<item>
+			Nurture your mind with great thoughts, for you will never go any higher than you think.\n\n ~Benjamin Disraeli
+		</item>
+		<item>
+			Its not stress that kills us, it is our reaction to it.\n\n ~Hans Selye
+		</item>
+		<item>
+			The highest reward for a person\'s toil is not what they get for it, but what they become by it.\n\n ~John Ruskin
+		</item>
+		<item>
+			You may be deceived if you trust too much; but you will live in torment if you don\'t trust enough.\n\n ~Frank Crane
+		</item>
+		<item>
+			It\'s not that I\'m so smart, it\'s just that I stay with problems longer.\n\n ~Albert Einstein
+		</item>
+		<item>
+			No one ever won a chess game by betting on each move. Sometimes you have to move backward to get a step forward.\n\n ~Amar Gopal Bose
+		</item>
+		<item>
+			Men succeed when they realize that their failures are the preparation for their victories.\n\n ~Ralph Waldo Emerson
+		</item>
+		<item>
+			The keys to patience are acceptance and faith. Accept things as they are, and look realistically at the world around you. Have faith in yourself and in the direction you have chosen.\n\n ~Ralph Marston
+		</item>
+		<item>
+			Patience, persistence and perspiration make an unbeatable combination for success.\n\n ~Napolean Hill
+		</item>
+		<item>
+			Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.\n\n ~Thomas A. Edison
+		</item>
+		<item>
+			All of us have bad luck and good luck. The man who persists through the bad luck - who keeps right on going - is the man who is there when the good luck comes - and is ready to receive it.\n\n ~Robert Collier
+		</item>
+		<item>
+			Experience is not what happens to a man, it is what a man does with what happens to him.\n\n ~Aldous Huxley
+		</item>
+		<item>
+			Forget mistakes. Forget failure. Forget everything except what you\'re going to do now and do it. Today is your lucky day.\n\n ~Will Durant
+		</item>
+		<item>
+			Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved.\n\n ~William Jennings Bryan
+		</item>
+		<item>
+			Whatever the mind can conceive and believe, the mind can achieve.\n\n ~Napoleon Hill
+		</item>
+		<item>
+			All positive change in the world comes from our ideas of what we believe is possible.\n\n ~Alexandra Jamieson
+		</item>
+		<item>
+			Men are not disturbed by things, but the view they take of things.\n\n ~Epictetus
+		</item>
+		<item>
+			Be nice to people on your way up because you meet them on your way down.\n\n ~Jimmy Durante
+		</item>
+		<item>
+			Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand.\n\n ~Albert Einstein
+		</item>
+		<item>
+			Change is not a matter of possibility, it\'s a matter of decision.\n\n ~Kevin Ngo
+		</item>
+		<item>
+			Life can either be accepted or changed. If it is not accepted, it must be changed. If it cannot be changed, then it must be accepted.\n\n ~Sir Winston Churchill
+		</item>
+		<item>
+			A creative man is motivated by the desire to achieve, not by the desire to beat others.\n\n ~Ayn Rand
+		</item>
+		<item>
+			You cannot expect to achieve new goals or move beyond your present circumstances unless you change.\n\n ~Les Brown
+		</item>
+		<item>
+			The surest way to lose sight of who you are is to constantly compare yourself to others.\n\n ~Tom Krause
+		</item>
+		<item>
+			Always be a first rate version of yourself, instead of a second rate version of somebody else.\n\n ~Judy Garland
+		</item>
+		<item>
+			You must have control of the authorship of your own destiny. The pen that writes your life story must be held in your own hand.\n\n ~Irene C. Kassorla
+		</item>
+		<item>
+			Life is like riding a bicycle. To keep your balance you must keep moving.\n\n ~Albert Einstein
+		</item>
+		<item>
+			Achievement seems to be connected with action. Successful men and women keep moving. They make mistakes, but they don\'t quit.\n\n ~Conrad Hilton
+		</item>
+		<item>
+			You don\’t get to choose how you are going to die. Or when. You can only decide how you are going to live. Now.\n\n ~Joan Baez
+		</item>
+		<item>
+			Strength does not come from physical capacity. It comes from an indomitable will.\n\n ~Mahatma Gandhi
+		</item>
+		<item>
+			Knowing others is intelligence; knowing yourself is true wisdom.Mastering others is strength; mastering yourself is true power.\n\n ~Lao-Tzu
+		</item>
+		<item>
+			Greatness lies not in being strong, but in the right using of strength.\n\n ~Henry Ward Beecher
+		</item>
+		<item>
+			It is during our failures that we discover our true desire for success.\n\n ~Kevin Ngo
+		</item>
+	</string-array>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="drawerArrowStyle"/>
+    <attr format="dimension" name="height"/>
+    <attr format="boolean" name="isLightTheme"/>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="mediaRouteButtonStyle"/>
+    <attr format="reference" name="mediaRouteConnectingDrawable"/>
+    <attr format="reference" name="mediaRouteOffDrawable"/>
+    <attr format="reference" name="mediaRouteOnDrawable"/>
+    <attr format="reference" name="mediaRoutePauseDrawable"/>
+    <attr format="reference" name="mediaRoutePlayDrawable"/>
+    <attr format="reference" name="mediaRouteSettingsDrawable"/>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="string" name="title"/>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <color name="abc_input_method_navigation_guard">@android:color/black</color>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="accent_material_dark">@color/material_deep_teal_200</color>
+    <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="background_floating_material_dark">#ff424242</color>
+    <color name="background_floating_material_light">#ffeeeeee</color>
+    <color name="background_material_dark">#ff303030</color>
+    <color name="background_material_light">#ffeeeeee</color>
+    <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color name="bright_foreground_disabled_material_light">#80000000</color>
+    <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+    <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+    <color name="dim_foreground_disabled_material_light">#80323232</color>
+    <color name="dim_foreground_material_dark">#ffbebebe</color>
+    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
+    <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color name="link_text_material_dark">@color/material_deep_teal_200</color>
+    <color name="link_text_material_light">@color/material_deep_teal_500</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="primary_dark_material_dark">#ff000000</color>
+    <color name="primary_dark_material_light">#ff757575</color>
+    <color name="primary_material_dark">#ff212121</color>
+    <color name="primary_material_light">#ffbdbdbd</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#de000000</color>
+    <color name="primary_text_disabled_material_dark">#4Dffffff</color>
+    <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="ripple_material_dark">#40ffffff</color>
+    <color name="ripple_material_light">#40000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_colors.xml -->
+    <eat-comment/>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
+    <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
+    <declare-styleable name="ActionMenuView"/>
+    <declare-styleable name="ActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/><attr format="reference" name="closeItemLayout"/></declare-styleable>
+    <declare-styleable name="ActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/></declare-styleable>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="CompatTextView"><attr format="reference|boolean" name="textAllCaps"/></declare-styleable>
+    <declare-styleable name="CustomWalletTheme"><attr format="enum" name="windowTransitionStyle"><enum name="slide" value="1"/><enum name="none" value="2"/></attr></declare-styleable>
+    <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="topBottomBarArrowSize"/><attr format="dimension" name="middleBarArrowSize"/><attr format="dimension" name="barSize"/><attr format="dimension" name="thickness"/></declare-styleable>
+    <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
+    <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/></declare-styleable>
+    <declare-styleable name="MediaRouteButton"><attr format="reference" name="externalRouteEnabledDrawable"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable>
+    <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
+    <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/></declare-styleable>
+    <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
+    <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
+    <declare-styleable name="Spinner"><attr format="reference" name="prompt"/><attr format="enum" name="spinnerMode"><enum name="dialog" value="0"/><enum name="dropdown" value="1"/></attr><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr format="reference" name="popupPromptView"/><attr name="android:gravity"/><attr format="boolean" name="disableChildrenWhenDisabled"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="reference" name="track"/><attr name="android:textOn"/><attr name="android:textOff"/><attr format="dimension" name="thumbTextPadding"/><attr format="reference" name="switchTextAppearance"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchPadding"/><attr format="boolean" name="splitTrack"/><attr format="boolean" name="showText"/></declare-styleable>
+    <declare-styleable name="SwitchCompatTextAppearance"><attr name="android:textSize"/><attr name="android:textColor"/><attr name="textAllCaps"/></declare-styleable>
+    <declare-styleable name="Theme"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr format="dimension|fraction" name="windowFixedWidthMajor"/><attr format="dimension|fraction" name="windowFixedHeightMinor"/><attr format="dimension|fraction" name="windowFixedWidthMinor"/><attr format="dimension|fraction" name="windowFixedHeightMajor"/><attr name="android:windowIsFloating"/><attr name="android:windowAnimationStyle"/><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionOverflowMenuStyle"/><attr format="reference" name="actionBarPopupTheme"/><attr format="reference" name="actionBarStyle"/><attr format="reference" name="actionBarSplitStyle"/><attr format="reference" name="actionBarTheme"/><attr format="reference" name="actionBarWidgetTheme"/><attr format="dimension" name="actionBarSize"><enum name="wrap_content" value="0"/></attr><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionBarItemBackground"/><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeStyle"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeSplitBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="actionModeCutDrawable"/><attr format="reference" name="actionModeCopyDrawable"/><attr format="reference" name="actionModePasteDrawable"/><attr format="reference" name="actionModeSelectAllDrawable"/><attr format="reference" name="actionModeShareDrawable"/><attr format="reference" name="actionModeFindDrawable"/><attr format="reference" name="actionModeWebSearchDrawable"/><attr format="reference" name="actionModePopupWindowStyle"/><attr format="reference" name="textAppearanceLargePopupMenu"/><attr format="reference" name="textAppearanceSmallPopupMenu"/><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="spinnerStyle"/><attr format="reference" name="spinnerDropDownItemStyle"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="selectableItemBackgroundBorderless"/><attr format="reference" name="dividerVertical"/><attr format="reference" name="dividerHorizontal"/><attr format="reference" name="activityChooserViewStyle"/><attr format="reference" name="toolbarStyle"/><attr format="reference" name="toolbarNavigationButtonStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="reference" name="popupWindowStyle"/><attr format="reference|color" name="editTextColor"/><attr format="reference" name="editTextBackground"/><attr format="reference" name="switchStyle"/><attr format="reference" name="textAppearanceSearchResultTitle"/><attr format="reference" name="textAppearanceSearchResultSubtitle"/><attr format="reference|color" name="textColorSearchUrl"/><attr format="reference" name="searchViewStyle"/><attr format="dimension" name="listPreferredItemHeight"/><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="dimension" name="listPreferredItemHeightLarge"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="dimension" name="listPreferredItemPaddingRight"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="textAppearanceListItem"/><attr format="reference" name="textAppearanceListItemSmall"/><attr format="reference" name="panelBackground"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/><attr format="color" name="colorPrimary"/><attr format="color" name="colorPrimaryDark"/><attr format="color" name="colorAccent"/><attr format="color" name="colorControlNormal"/><attr format="color" name="colorControlActivated"/><attr format="color" name="colorControlHighlight"/><attr format="color" name="colorButtonNormal"/><attr format="color" name="colorSwitchThumbNormal"/></declare-styleable>
+    <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="theme"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/></declare-styleable>
+    <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
+    <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="test" value="3"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_default_height_material">56dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding_material">16dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin_material">5dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin_material">-3dp</dimen>
+    <dimen name="abc_action_button_min_height_material">48dp</dimen>
+    <dimen name="abc_action_button_min_width_material">48dp</dimen>
+    <dimen name="abc_action_button_min_width_overflow_material">36dp</dimen>
+    <dimen name="abc_button_inset_horizontal_material">@dimen/abc_control_inset_material</dimen>
+    <dimen name="abc_button_inset_vertical_material">6dp</dimen>
+    <dimen name="abc_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="abc_button_padding_vertical_material">@dimen/abc_control_padding_material</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_control_corner_material">2dp</dimen>
+    <dimen name="abc_control_inset_material">4dp</dimen>
+    <dimen name="abc_control_padding_material">4dp</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <dimen name="abc_text_size_body_1_material">16sp</dimen>
+    <dimen name="abc_text_size_body_2_material">16sp</dimen>
+    <dimen name="abc_text_size_button_material">14sp</dimen>
+    <dimen name="abc_text_size_caption_material">12sp</dimen>
+    <dimen name="abc_text_size_display_1_material">34sp</dimen>
+    <dimen name="abc_text_size_display_2_material">45sp</dimen>
+    <dimen name="abc_text_size_display_3_material">56sp</dimen>
+    <dimen name="abc_text_size_display_4_material">112sp</dimen>
+    <dimen name="abc_text_size_headline_material">24sp</dimen>
+    <dimen name="abc_text_size_large_material">22sp</dimen>
+    <dimen name="abc_text_size_medium_material">18sp</dimen>
+    <dimen name="abc_text_size_menu_material">16sp</dimen>
+    <dimen name="abc_text_size_small_material">14sp</dimen>
+    <dimen name="abc_text_size_subhead_material">16sp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material">20sp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <item name="dialog_fixed_height_major" type="dimen">80%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">100%</item>
+    <item name="dialog_fixed_width_major" type="dimen">320dp</item>
+    <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
+    <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
+    <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="mr_media_route_controller_art_max_height">320dp</dimen>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_bar_spinner" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/values/cast_ids.xml -->
+    <eat-comment/>
+    <item name="cast_notification_id" type="id"/>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <item name="home" type="id"/>
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+    <item name="split_action_bar" type="id"/>
+    <item name="up" type="id"/>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">7571000</integer>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Positive Thought</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/auth_strings.xml -->
+    <eat-comment/>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/values/cast_strings.xml -->
+    <eat-comment/>
+    <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
+    <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="hello">Hello World, Main!</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="mr_media_route_button_content_description">Cast</string>
+    <string name="mr_media_route_chooser_searching">Searching for devices\u2026</string>
+    <string name="mr_media_route_chooser_title">Connect to device</string>
+    <string name="mr_media_route_controller_disconnect">Disconnect</string>
+    <string name="mr_media_route_controller_pause">Pause</string>
+    <string name="mr_media_route_controller_play">Play</string>
+    <string name="mr_media_route_controller_settings_description">Route settings</string>
+    <string name="mr_media_route_controller_stop">Stop casting</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="statusview">statusview</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
+    <style name="Base.Animation.AppCompat.DropDownUp" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/abc_shrink_fade_out_from_bottom</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorHighlight">?android:textColorHighlight</item>
+        <item name="android:textColorLink">?android:textColorLink</item>
+        <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body2">
+        <item name="android:textSize">@dimen/abc_text_size_body_2_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">@dimen/abc_text_size_caption_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display1">
+        <item name="android:textSize">@dimen/abc_text_size_display_1_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display2">
+        <item name="android:textSize">@dimen/abc_text_size_display_2_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display3">
+        <item name="android:textSize">@dimen/abc_text_size_display_3_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display4">
+        <item name="android:textSize">@dimen/abc_text_size_display_4_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Headline">
+        <item name="android:textSize">@dimen/abc_text_size_headline_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large">
+        <item name="android:textSize">@dimen/abc_text_size_large_material</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium">
+        <item name="android:textSize">@dimen/abc_text_size_medium_material</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Menu">
+        <item name="android:textSize">@dimen/abc_text_size_menu_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small">
+        <item name="android:textSize">@dimen/abc_text_size_small_material</item>
+        <item name="android:textColor">?android:attr/textColorTertiary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorTertiaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subhead_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Subhead.Inverse">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Title.Inverse">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Switch" parent="TextAppearance.AppCompat.Button"/>
+    <style name="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="TextAppearance.AppCompat.Menu"/>
+    <style name="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+    </style>
+    <style name="Base.Theme.AppCompat" parent="Base.V7.Theme.AppCompat">
+    </style>
+    <style name="Base.Theme.AppCompat.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+        <item name="android:windowAnimationStyle">@style/Animation.AppCompat.DropDownUp</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog" parent="Base.V7.Theme.AppCompat.Dialog"/>
+    <style name="Base.Theme.AppCompat.Dialog.FixedSize">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Theme.AppCompat"/>
+    <style name="Base.Theme.AppCompat.Light" parent="Base.V7.Theme.AppCompat.Light">
+    </style>
+    <style name="Base.Theme.AppCompat.Light.DarkActionBar" parent="Base.Theme.AppCompat.Light">
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="Base.Theme.AppCompat.Dialog"/>
+    <style name="Base.Theme.AppCompat.Light.Dialog.FixedSize">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.AppCompat.Light"/>
+    <style name="Base.ThemeOverlay.AppCompat" parent=""/>
+    <style name="Base.ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <!-- Action Bar styles -->
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+
+        <!-- SearchView styles -->
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_dark</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Light">
+        <item name="android:windowBackground">@color/background_material_light</item>
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+
+        <!-- SearchView attributes -->
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_light</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">true</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat" parent="Platform.AppCompat">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">16dip</item>
+        <item name="listPreferredItemPaddingRight">16dip</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+
+        <item name="android:editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorButtonNormal">@color/button_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_dark</item>
+
+        <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
+
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+
+        <item name="android:ratingBarStyle">@style/Widget.AppCompat.RatingBar</item>
+
+        <!-- Button styles -->
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="android:buttonStyleSmall">@style/Widget.AppCompat.Button.Small</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Button</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Dialog" parent="Platform.AppCompat.Dialog">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+        <item name="isLightTheme">false</item>
+
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">16dip</item>
+        <item name="listPreferredItemPaddingRight">16dip</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+
+        <item name="android:editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorButtonNormal">@color/button_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_dark</item>
+
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+
+        <item name="android:ratingBarStyle">@style/Widget.AppCompat.RatingBar</item>
+
+        <!-- Button styles -->
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="android:buttonStyleSmall">@style/Widget.AppCompat.Button.Small</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Button</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Light" parent="Platform.AppCompat.Light">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">true</item>
+
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.Light.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">16dip</item>
+        <item name="listPreferredItemPaddingRight">16dip</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.Light.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+
+        <item name="android:editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_light</item>
+        <item name="colorPrimary">@color/primary_material_light</item>
+        <item name="colorAccent">@color/accent_material_light</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+        <item name="colorButtonNormal">@color/button_material_light</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_normal_material_light</item>
+
+        <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
+
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+
+        <item name="android:ratingBarStyle">@style/Widget.AppCompat.RatingBar</item>
+
+        <!-- Button styles -->
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="android:buttonStyleSmall">@style/Widget.AppCompat.Button.Small</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Button</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar" parent="">
+        <item name="displayOptions">showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+
+        <item name="background">@null</item>
+        <item name="backgroundStacked">@null</item>
+        <item name="backgroundSplit">@null</item>
+
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+
+        <item name="android:gravity">center_vertical</item>
+        <item name="elevation">8dp</item>
+        <item name="popupTheme">?attr/actionBarPopupTheme</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.Solid">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="backgroundStacked">?attr/colorPrimary</item>
+        <item name="backgroundSplit">?attr/colorPrimary</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">8dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:maxWidth">180dp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_material</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.CloseMode">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_mtrl_alpha</item>
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:contentDescription">@string/abc_action_menu_overflow_description</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_overflow_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+        <item name="closeItemLayout">@layout/abc_action_mode_close_item_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_mtrl_alpha</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:background">?attr/editTextBackground</item>
+        <item name="android:textColor">?attr/editTextColor</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button" parent="android:Widget">
+        <item name="android:background">@drawable/abc_btn_default_mtrl_shape</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">88dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Small">
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">48dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.CompoundButton.Switch" parent="android:Widget.CompoundButton">
+        <item name="track">@drawable/abc_switch_track_mtrl_alpha</item>
+        <item name="android:thumb">@drawable/abc_switch_thumb_material</item>
+        <item name="switchTextAppearance">@style/TextAppearance.AppCompat.Widget.Switch</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="showText">false</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+        <item name="barSize">18dp</item>
+        <item name="gapBetweenBars">3dp</item>
+        <item name="drawableSize">24dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle.Common" parent="">
+        <item name="color">?android:attr/textColorSecondary</item>
+        <item name="middleBarArrowSize">16dp</item>
+        <item name="spinBars">true</item>
+        <item name="thickness">2dp</item>
+        <item name="topBottomBarArrowSize">11.31dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Base.Widget.AppCompat.EditText" parent="android:Widget.EditText">
+        <item name="android:background">?attr/editTextBackground</item>
+        <item name="android:textColor">?attr/editTextColor</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="backgroundStacked">?attr/colorPrimary</item>
+        <item name="backgroundSplit">?attr/colorPrimary</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabBar" parent="Base.Widget.AppCompat.ActionBar.TabBar">
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="Base.Widget.AppCompat.ActionBar.TabText">
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Base.Widget.AppCompat.Light.ActionBar.TabText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="Base.Widget.AppCompat.ActionBar.TabView">
+        <item name="android:background">@drawable/abc_tab_indicator_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow">
+    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownHorizontalOffset">-4dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">@null</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+    <style name="Base.Widget.AppCompat.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow">
+    </style>
+    <style name="Base.Widget.AppCompat.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownHorizontalOffset">-4dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.PopupWindow" parent="android:Widget.PopupWindow">
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar" parent="android:Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/abc_ratingbar_full_material</item>
+        <item name="android:indeterminateDrawable">@drawable/abc_ratingbar_full_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.SearchView" parent="android:Widget">
+        <item name="layout">@layout/abc_search_view</item>
+        <item name="queryBackground">@drawable/abc_textfield_search_material</item>
+        <item name="submitBackground">@drawable/abc_textfield_search_material</item>
+        <item name="closeIcon">@drawable/abc_ic_clear_mtrl_alpha</item>
+        <item name="searchIcon">@drawable/abc_ic_search_api_mtrl_alpha</item>
+        <item name="goIcon">@drawable/abc_ic_go_search_api_mtrl_alpha</item>
+        <item name="voiceIcon">@drawable/abc_ic_voice_search_api_mtrl_alpha</item>
+        <item name="commitIcon">@drawable/abc_ic_commit_search_api_mtrl_alpha</item>
+        <item name="suggestionRowLayout">@layout/abc_search_dropdown_item_icons_2line</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner" parent="android:Widget.Spinner">
+        <item name="android:background">@drawable/abc_spinner_mtrl_am_alpha</item>
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.DropDown.ActionBar" parent="android:Widget">
+        <item name="spinnerMode">dropdown</item>
+
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_mtrl_am_alpha</item>
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="popupPromptView">@layout/abc_simple_dropdown_hint</item>
+        <item name="android:gravity">left|start|center_vertical</item>
+        <item name="disableChildrenWhenDisabled">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.Underlined">
+        <item name="android:background">@drawable/abc_spinner_textfield_background_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="android:Widget.TextView.SpinnerItem">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.TextView.SpinnerItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar" parent="android:Widget">
+        <item name="titleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Title</item>
+        <item name="subtitleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="titleMargins">4dp</item>
+        <item name="maxButtonHeight">56dp</item>
+        <item name="collapseIcon">?attr/homeAsUpIndicator</item>
+        <item name="collapseContentDescription">@string/abc_toolbar_collapse_description</item>
+        <item name="contentInsetStart">16dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget">
+        <item name="android:minWidth">56dp</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+    <style name="Platform.AppCompat" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_dark</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.AppCompat.Dialog" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_dark</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_light</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.AppCompat.Light.Dialog" parent="Platform.AppCompat.Dialog"/>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
+        <item name="android:layout_gravity">center_vertical|left</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.CloseMode" parent="Base.Widget.AppCompat.ActionButton.CloseMode">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.Overflow" parent="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">12dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="android:Widget">
+        <item name="android:paddingRight">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="android:Widget">
+        <item name="android:layout_marginLeft">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="android:Widget">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="android:Widget">
+        <item name="android:paddingLeft">@dimen/abc_dropdownitem_text_padding_left</item>
+        <item name="android:paddingRight">4dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1" parent="android:Widget">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2" parent="android:Widget">
+        <item name="android:layout_toLeftOf">@id/edit_query</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Query" parent="android:Widget">
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Text" parent="Base.Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:layout_toLeftOf">@android:id/icon2</item>
+        <item name="android:layout_toRightOf">@android:id/icon1</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
+        <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
+    </style>
+    <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
+    <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
+    <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>
+    <style name="TextAppearance.AppCompat.Button" parent="Base.TextAppearance.AppCompat.Button"/>
+    <style name="TextAppearance.AppCompat.Caption" parent="Base.TextAppearance.AppCompat.Caption"/>
+    <style name="TextAppearance.AppCompat.Display1" parent="Base.TextAppearance.AppCompat.Display1"/>
+    <style name="TextAppearance.AppCompat.Display2" parent="Base.TextAppearance.AppCompat.Display2"/>
+    <style name="TextAppearance.AppCompat.Display3" parent="Base.TextAppearance.AppCompat.Display3"/>
+    <style name="TextAppearance.AppCompat.Display4" parent="Base.TextAppearance.AppCompat.Display4"/>
+    <style name="TextAppearance.AppCompat.Headline" parent="Base.TextAppearance.AppCompat.Headline"/>
+    <style name="TextAppearance.AppCompat.Inverse" parent="Base.TextAppearance.AppCompat.Inverse"/>
+    <style name="TextAppearance.AppCompat.Large" parent="Base.TextAppearance.AppCompat.Large"/>
+    <style name="TextAppearance.AppCompat.Large.Inverse" parent="Base.TextAppearance.AppCompat.Large.Inverse"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large">
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small">
+    </style>
+    <style name="TextAppearance.AppCompat.Medium" parent="Base.TextAppearance.AppCompat.Medium"/>
+    <style name="TextAppearance.AppCompat.Medium.Inverse" parent="Base.TextAppearance.AppCompat.Medium.Inverse"/>
+    <style name="TextAppearance.AppCompat.Menu" parent="Base.TextAppearance.AppCompat.Menu"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="Base.TextAppearance.AppCompat.SearchResult.Subtitle">
+    </style>
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="Base.TextAppearance.AppCompat.SearchResult.Title">
+    </style>
+    <style name="TextAppearance.AppCompat.Small" parent="Base.TextAppearance.AppCompat.Small"/>
+    <style name="TextAppearance.AppCompat.Small.Inverse" parent="Base.TextAppearance.AppCompat.Small.Inverse"/>
+    <style name="TextAppearance.AppCompat.Subhead" parent="Base.TextAppearance.AppCompat.Subhead"/>
+    <style name="TextAppearance.AppCompat.Subhead.Inverse" parent="Base.TextAppearance.AppCompat.Subhead.Inverse"/>
+    <style name="TextAppearance.AppCompat.Title" parent="Base.TextAppearance.AppCompat.Title"/>
+    <style name="TextAppearance.AppCompat.Title.Inverse" parent="Base.TextAppearance.AppCompat.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.ActionMode.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="Base.TextAppearance.AppCompat.Widget.ActionMode.Title">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.ActionMode.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="Base.TextAppearance.AppCompat.Widget.DropDownItem">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
+    <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item">
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
+    </style>
+    <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
+    <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
+    <style name="Theme.AppCompat.Dialog" parent="Base.Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.Light" parent="Base.Theme.AppCompat.Light"/>
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Base.Theme.AppCompat.Light.DarkActionBar"/>
+    <style name="Theme.AppCompat.Light.Dialog" parent="Base.Theme.AppCompat.Light.Dialog"/>
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Theme.MediaRouter" parent="">
+        <item name="mediaRouteButtonStyle">@style/Widget.MediaRouter.MediaRouteButton</item>
+
+        <item name="mediaRouteOffDrawable">@drawable/ic_media_route_off_mono_dark</item>
+        <item name="mediaRouteConnectingDrawable">@drawable/mr_ic_media_route_connecting_mono_dark</item>
+        <item name="mediaRouteOnDrawable">@drawable/ic_media_route_on_mono_dark</item>
+        <item name="mediaRouteSettingsDrawable">@drawable/mr_ic_settings_dark</item>
+        <item name="mediaRoutePlayDrawable">@drawable/mr_ic_play_dark</item>
+        <item name="mediaRoutePauseDrawable">@drawable/mr_ic_pause_dark</item>
+    </style>
+    <style name="Theme.MediaRouter.Light" parent="">
+        <item name="mediaRouteButtonStyle">@style/Widget.MediaRouter.Light.MediaRouteButton</item>
+
+        <item name="mediaRouteOffDrawable">@drawable/ic_cast_off_light</item>
+        <item name="mediaRouteConnectingDrawable">@drawable/mr_ic_media_route_connecting_mono_light</item>
+        <item name="mediaRouteOnDrawable">@drawable/ic_cast_on_light</item>
+        <item name="mediaRouteSettingsDrawable">@drawable/mr_ic_settings_light</item>
+        <item name="mediaRoutePlayDrawable">@drawable/mr_ic_play_light</item>
+        <item name="mediaRoutePauseDrawable">@drawable/mr_ic_pause_light</item>
+    </style>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
+    <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_styles.xml -->
+    <eat-comment/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Base.Widget.AppCompat.ActionBar.TabBar">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Base.Widget.AppCompat.ActionBar.TabText">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Base.Widget.AppCompat.ActionBar.TabView">
+    </style>
+    <style name="Widget.AppCompat.ActionButton" parent="Base.Widget.AppCompat.ActionButton"/>
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="RtlOverlay.Widget.AppCompat.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="RtlOverlay.Widget.AppCompat.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.ActionMode" parent="Base.Widget.AppCompat.ActionMode">
+    </style>
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Base.Widget.AppCompat.ActivityChooserView">
+    </style>
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Base.Widget.AppCompat.AutoCompleteTextView">
+    </style>
+    <style name="Widget.AppCompat.Button" parent="Base.Widget.AppCompat.Button"/>
+    <style name="Widget.AppCompat.Button.Small" parent="Base.Widget.AppCompat.Button.Small"/>
+    <style name="Widget.AppCompat.CompoundButton.Switch" parent="Base.Widget.AppCompat.CompoundButton.Switch"/>
+    <style name="Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">?attr/colorControlNormal</item>
+    </style>
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="RtlOverlay.Widget.AppCompat.Search.DropDown.Text"/>
+    <style name="Widget.AppCompat.EditText" parent="Base.Widget.AppCompat.EditText">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Base.Widget.AppCompat.Light.ActionBar">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Base.Widget.AppCompat.Light.ActionBar.Solid">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Base.Widget.AppCompat.Light.ActionBar.TabBar">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Base.Widget.AppCompat.Light.ActionBar.TabText">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Base.Widget.AppCompat.Light.ActionBar.TabView">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.ActionButton"/>
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.ActionMode"/>
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.ActivityChooserView"/>
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.ListView.DropDown"/>
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Base.Widget.AppCompat.Light.PopupMenu">
+    </style>
+    <style name="Widget.AppCompat.Light.PopupMenu.Overflow" parent="Base.Widget.AppCompat.Light.PopupMenu.Overflow">
+    </style>
+    <style name="Widget.AppCompat.Light.SearchView" parent="Widget.AppCompat.SearchView"/>
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Spinner.DropDown.ActionBar"/>
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Base.Widget.AppCompat.ListPopupWindow">
+    </style>
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Base.Widget.AppCompat.ListView.DropDown">
+    </style>
+    <style name="Widget.AppCompat.ListView.Menu" parent="Base.Widget.AppCompat.ListView.Menu">
+    </style>
+    <style name="Widget.AppCompat.PopupMenu" parent="Base.Widget.AppCompat.PopupMenu">
+    </style>
+    <style name="Widget.AppCompat.PopupMenu.Overflow" parent="Base.Widget.AppCompat.PopupMenu.Overflow">
+    </style>
+    <style name="Widget.AppCompat.PopupWindow" parent="Base.Widget.AppCompat.PopupWindow">
+    </style>
+    <style name="Widget.AppCompat.ProgressBar" parent="Base.Widget.AppCompat.ProgressBar">
+    </style>
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Base.Widget.AppCompat.ProgressBar.Horizontal">
+    </style>
+    <style name="Widget.AppCompat.RatingBar" parent="Base.Widget.AppCompat.RatingBar"/>
+    <style name="Widget.AppCompat.SearchView" parent="Base.Widget.AppCompat.SearchView"/>
+    <style name="Widget.AppCompat.Spinner" parent="Base.Widget.AppCompat.Spinner"/>
+    <style name="Widget.AppCompat.Spinner.DropDown"/>
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Base.Widget.AppCompat.Spinner.DropDown.ActionBar"/>
+    <style name="Widget.AppCompat.Spinner.Underlined" parent="Base.Widget.AppCompat.Spinner.Underlined"/>
+    <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
+    <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
+    <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
+    <!-- From: file:/F:/Rudrik/GRADLE/Positive%20thoughts/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Widget.MediaRouter.Light.MediaRouteButton" parent="Widget.AppCompat.Light.ActionButton">
+        <item name="android:minWidth">56dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:contentDescription">@string/mr_media_route_button_content_description</item>
+        <item name="externalRouteEnabledDrawable">@drawable/mr_ic_media_route_mono_light</item>
+    </style>
+    <style name="Widget.MediaRouter.MediaRouteButton" parent="Widget.AppCompat.ActionButton">
+        <item name="android:minWidth">56dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:contentDescription">@string/mr_media_route_button_content_description</item>
+        <item name="externalRouteEnabledDrawable">@drawable/mr_ic_media_route_mono_dark</item>
+    </style>
+</resources>

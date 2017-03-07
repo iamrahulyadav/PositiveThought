@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:weightSum="1">
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="146dp" android:layout_width="fill_parent" android:layout_weight="0.20" android:id="@+id/tvInformation" android:text="This is my first Application developed for learning and make my android development knowledge richer. Hope u guys Enjoy My first Application"></TextView>
+    
+</LinearLayout>

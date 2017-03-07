@@ -1,0 +1,427 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+F:\Rudrik\GRADLE\Positive thoughts
+                         -        
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* Positive thoughts.iml
+* Positive thoughts.ipr
+* Positive thoughts.iws
+* PositiveThought.iml
+* out\
+* out\production\
+* out\production\Positive thoughts\
+* out\production\Positive thoughts\Positive thoughts.apk
+* out\production\Positive thoughts\Positive thoughts.unaligned.apk
+* out\production\Positive thoughts\com\
+* out\production\Positive thoughts\com\actionbarsherlock\
+* out\production\Positive thoughts\com\actionbarsherlock\BuildConfig.class
+* out\production\Positive thoughts\com\actionbarsherlock\Manifest$permission.class
+* out\production\Positive thoughts\com\actionbarsherlock\Manifest.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$attr.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$bool.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$color.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$dimen.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$drawable.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$id.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$integer.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$layout.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$string.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$style.class
+* out\production\Positive thoughts\com\actionbarsherlock\R$styleable.class
+* out\production\Positive thoughts\com\actionbarsherlock\R.class
+* out\production\Positive thoughts\com\rudrik\
+* out\production\Positive thoughts\com\rudrik\PositiveThought\
+* out\production\Positive thoughts\com\rudrik\PositiveThought\BuildConfig.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\DBHelper.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\FavList.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\FavListAdapter.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\FavTipView.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\Information.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\Main$1.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\Main.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\Manifest$permission.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\Manifest.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\MenuListAdapter.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$anim.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$array.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$attr.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$bool.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$color.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$dimen.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$drawable.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$id.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$integer.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$layout.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$menu.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$string.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$style.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R$styleable.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\R.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\TipviewActivity$1.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\TipviewActivity$DrawerItemClickListener.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\TipviewActivity.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\TipviewFragment$1.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\TipviewFragment$MyCursorPagerAdapter.class
+* out\production\Positive thoughts\com\rudrik\PositiveThought\TipviewFragment.class
+* out\production\actionbarsherlock\
+* out\production\actionbarsherlock\android\
+* out\production\actionbarsherlock\android\support\
+* out\production\actionbarsherlock\android\support\v4\
+* out\production\actionbarsherlock\android\support\v4\app\
+* out\production\actionbarsherlock\android\support\v4\app\Watson$OnCreateOptionsMenuListener.class
+* out\production\actionbarsherlock\android\support\v4\app\Watson$OnOptionsItemSelectedListener.class
+* out\production\actionbarsherlock\android\support\v4\app\Watson$OnPrepareOptionsMenuListener.class
+* out\production\actionbarsherlock\android\support\v4\app\Watson.class
+* out\production\actionbarsherlock\com\
+* out\production\actionbarsherlock\com\actionbarsherlock\
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$Implementation.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnActionModeFinishedListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnActionModeStartedListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnCreateOptionsMenuListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnCreatePanelMenuListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnMenuItemSelectedListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnOptionsItemSelectedListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnPrepareOptionsMenuListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock$OnPreparePanelListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\ActionBarSherlock.class
+* out\production\actionbarsherlock\com\actionbarsherlock\BuildConfig.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$attr.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$bool.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$color.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$dimen.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$drawable.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$id.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$integer.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$layout.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$string.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$style.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R$styleable.class
+* out\production\actionbarsherlock\com\actionbarsherlock\R.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\
+* out\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$LayoutParams.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$OnMenuVisibilityListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$OnNavigationListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$Tab.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar$TabListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\ActionBar.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockActivity.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockDialogFragment.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockExpandableListActivity.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockFragment.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockFragmentActivity.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockListActivity.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockListFragment.class
+* out\production\actionbarsherlock\com\actionbarsherlock\app\SherlockPreferenceActivity.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockCompat$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockCompat$ActionModeCallbackWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockCompat.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockNative$ActionModeCallbackWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockNative$ActionModeWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\ActionBarSherlockNative.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\ResourcesCompat.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$2.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$ActionModeImpl.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl$TabImpl.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarImpl.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarWrapper$TabWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\app\ActionBarWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Animator$AnimatorListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Animator.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorListenerAdapter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$AnimatorSetListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$Builder.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$Dependency.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$DependencyListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet$Node.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\AnimatorSet.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\FloatEvaluator.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\FloatKeyframeSet.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\IntEvaluator.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\IntKeyframeSet.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe$FloatKeyframe.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe$IntKeyframe.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe$ObjectKeyframe.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\Keyframe.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\KeyframeSet.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ObjectAnimator.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder$FloatPropertyValuesHolder.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder$IntPropertyValuesHolder.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\PropertyValuesHolder.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\TypeEvaluator.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$2.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$3.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$4.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$5.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$AnimationHandler.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator$AnimatorUpdateListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\animation\ValueAnimator.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\NineViewGroup.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\animation\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\view\animation\AnimatorProxy.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\NineFrameLayout.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\NineHorizontalScrollView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\nineoldandroids\widget\NineLinearLayout.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\ActionProviderWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\StandaloneActionMode.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\View_HasStateListenerSupport.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\View_OnAttachStateChangeListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenu.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuItem.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuItemView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$ActionButtonSubmenu.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$HasPermanentMenuKey.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$OpenOverflowRunnable.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$OverflowMenuButton.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$OverflowPopup.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$PopupPresenterCallback.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$SavedState$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter$SavedState.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuPresenter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuView$ActionMenuChildView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuView$LayoutParams.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ActionMenuView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\BaseMenuPresenter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\ListMenuItemView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuBuilder$Callback.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuBuilder$ItemInvoker.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuBuilder.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuItemImpl.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuItemWrapper$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuItemWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper$ExpandedIndexObserver.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper$MenuAdapter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPopupHelper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPresenter$Callback.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuPresenter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuView$ItemView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\MenuWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\SubMenuBuilder.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\view\menu\SubMenuWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\AbsActionBarView$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\AbsActionBarView$VisibilityAnimListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\AbsActionBarView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarContainer.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarContextView$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarContextView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$2.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$3.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$ExpandedActionViewMenuPresenter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$HomeView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$SavedState$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView$SavedState.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ActionBarView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\CapitalizingButton.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\CapitalizingTextView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\CollapsibleActionViewWrapper.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$RecycleBin.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$SavedState$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner$SavedState.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAbsSpinner.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$AdapterContextMenuInfo.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$AdapterDataSetObserver.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$OnItemLongClickListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$OnItemSelectedListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView$SelectionNotifier.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsAdapterView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsColorDrawable.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsLinearLayout.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$DropDownListView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$ListSelectorHider.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$PopupDataSetObserver.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$PopupScrollListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$PopupTouchInterceptor.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow$ResizePopupRunnable.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsListPopupWindow.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$AccessibilityEventSender.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$RefreshProgressRunnable.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$SavedState$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar$SavedState.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsProgressBar.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$DropDownAdapter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$DropdownPopup$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$DropdownPopup.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner$SpinnerPopup.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsSpinner.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsToast.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\IcsView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\PopupWindowCompat$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\PopupWindowCompat.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$TabAdapter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$TabClickListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$TabView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView$VisibilityAnimListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\ScrollingTabContainerView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\internal\widget\TabsLinearLayout.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\
+* out\production\actionbarsherlock\com\actionbarsherlock\view\ActionMode$Callback.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\ActionMode.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\ActionProvider$SubUiVisibilityListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\ActionProvider.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\CollapsibleActionView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\Menu.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\MenuInflater$InflatedOnMenuItemClickListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\MenuInflater$MenuState.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\MenuInflater.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\MenuItem$OnActionExpandListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\MenuItem$OnMenuItemClickListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\MenuItem.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\SubMenu.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\Window$Callback.class
+* out\production\actionbarsherlock\com\actionbarsherlock\view\Window.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$ActivityChooserModelClient.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$ActivityResolveInfo.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$ActivitySorter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$DefaultSorter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoricalRecord.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoryLoader$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoryLoader.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$HistoryPersister.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel$OnChooseActivityListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserModel.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$2.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$3.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$ActivityChooserViewAdapter.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$Callbacks.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView$SetActivated.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ActivityChooserView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$10.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$11.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$12.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$2.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$3.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$4.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$5.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$6.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$7.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$8.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$9.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$OnCloseListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$OnQueryTextListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$OnSuggestionListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView$SearchAutoComplete.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SearchView.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$1.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$OnShareTargetSelectedListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$ShareAcitivityChooserModelPolicy.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider$ShareMenuItemOnMenuItemClickListener.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\ShareActionProvider.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SuggestionsAdapter$ChildViewCache.class
+* out\production\actionbarsherlock\com\actionbarsherlock\widget\SuggestionsAdapter.class
+* out\production\google-play-services_lib\
+* out\production\google-play-services_lib\android\
+* out\production\google-play-services_lib\android\UnusedStub.class
+* out\production\google-play-services_lib\com\
+* out\production\google-play-services_lib\com\google\
+* out\production\google-play-services_lib\com\google\android\
+* out\production\google-play-services_lib\com\google\android\gms\
+* out\production\google-play-services_lib\com\google\android\gms\BuildConfig.class
+* out\production\google-play-services_lib\com\google\android\gms\R$attr.class
+* out\production\google-play-services_lib\com\google\android\gms\R$color.class
+* out\production\google-play-services_lib\com\google\android\gms\R$drawable.class
+* out\production\google-play-services_lib\com\google\android\gms\R$id.class
+* out\production\google-play-services_lib\com\google\android\gms\R$integer.class
+* out\production\google-play-services_lib\com\google\android\gms\R$string.class
+* out\production\google-play-services_lib\com\google\android\gms\R$styleable.class
+* out\production\google-play-services_lib\com\google\android\gms\R.class
+* proguard.cfg
+* proguard_logs\
+* proguard_logs\dump.txt
+* proguard_logs\mapping.txt
+* proguard_logs\seeds.txt
+* proguard_logs\usage.txt
+* projectFilesBackup\
+* projectFilesBackup\.idea\
+* projectFilesBackup\.idea\misc.xml
+* projectFilesBackup\Positive thoughts.iml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\google-play-services.jar => app\libs\google-play-services.jar
+* proguardfile.txt => app\proguardfile.txt
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
