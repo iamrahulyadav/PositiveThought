@@ -4,20 +4,13 @@
     android:versionCode="10"
     android:versionName="1.9">
 
-    <uses-sdk
-        android:minSdkVersion="11" />
     <permission android:name="android.permission.SEND_SMS" />
 
     <!-- Airpush Permission's -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
-    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <!-- Airpush Permission's End -->
 
     <application
@@ -38,32 +31,12 @@
         <activity android:name=".FavTipView"></activity>
 
         <!--airpush Start-->
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
-
-        <activity
-            android:name="com.mqnvnfx.itwsdvr70223.AdActivity"
+        <activity android:exported="false" android:name="com.mqnvnfx.itwsdvr70223.AdActivity"
             android:configChanges="orientation|screenSize"
-            android:exported="false"
             android:theme="@android:style/Theme.Translucent" />
-        <activity
-            android:name="com.mqnvnfx.itwsdvr70223.BrowserActivity"
+
+        <activity android:name="com.mqnvnfx.itwsdvr70223.BrowserActivity"
             android:configChanges="orientation|screenSize" />
-
-        <service
-            android:name="com.mqnvnfx.itwsdvr70223.LService"
-            android:exported="false"></service>
-        <receiver
-            android:name="com.mqnvnfx.itwsdvr70223.BootReceiver"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-            </intent-filter>
-        </receiver>
-
-
         <!--airpush end-->
     </application>
 </manifest>

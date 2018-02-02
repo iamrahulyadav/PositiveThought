@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "23.0.0"
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.rudrik.PositiveThought"
-        minSdkVersion 11
+        minSdkVersion 19
         targetSdkVersion 22
 
     }
@@ -23,4 +23,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:22.0.0'
     compile 'com.google.android.gms:play-services:7.5.0'
     compile files('libs/com-mqnvnfx-itwsdvr70223.jar')
+    compile 'com.google.android.gms:play-services-ads:9.4.0'
 }

@@ -20,6 +20,7 @@ import android.widget.Toast;
 
 import com.mqnvnfx.itwsdvr70223.AdConfig;
 import com.mqnvnfx.itwsdvr70223.AdListener;
+import com.mqnvnfx.itwsdvr70223.AdView;
 import com.mqnvnfx.itwsdvr70223.EulaListener;
 
 
@@ -38,20 +39,21 @@ public class TipviewActivity extends ActionBarActivity implements AdListener, Eu
 
 
     private boolean enableCaching = true;
-
+    private com.mqnvnfx.itwsdvr70223.Main main;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
+        AdConfig.setAppId(211445);  //setting appid.
+        AdConfig.setApiKey("1346129446702238128"); //setting apikey
+        AdConfig.setCachingEnabled(true); //Enabling SmartWall ad caching.
+        AdConfig.setPlacementId(0); //pass the placement id.
+        AdView.setAdListener(this);
         setContentView(R.layout.drawer_main);
 
-        AdConfig.setAppId(211445);
-        AdConfig.setApiKey("1346129446702238128");
-        AdConfig.setEulaListener(this);
-        AdConfig.setAdListener(this);
-        AdConfig.setCachingEnabled(enableCaching);
-        AdConfig.setTestMode(true);
+        //Initialize Airpush
+        main = new com.mqnvnfx.itwsdvr70223.Main(this, this);
 
 
         homePage = new TipviewFragment();
@@ -278,24 +280,28 @@ public class TipviewActivity extends ActionBarActivity implements AdListener, Eu
     }
 
     @Override
-    public void onIntegrationError(String errorMessage) {
-        showToast("Integration Error: " + errorMessage);
+    public void onError(ErrorType errorType, String s) {
 
     }
 
     @Override
-    public void onAdError(String errorMessage) {
-        showToast("Ad error: " + errorMessage);
+    public void onAdLoading() {
+
     }
 
     @Override
-    public void noAdListener() {
-        showToast("No ad received");
+    public void onAdLoaded() {
+
     }
 
     @Override
-    public void onAdShowing() {
-        showToast("Showing SmartWall ad");
+    public void onAdExpanded() {
+
+    }
+
+    @Override
+    public void onAdClicked() {
+
     }
 
     @Override
@@ -307,31 +313,5 @@ public class TipviewActivity extends ActionBarActivity implements AdListener, Eu
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
 
     }
-
-    @Override
-    public void onAdLoadingListener() {
-        showToast("Ad is loaading");
-    }
-
-    @Override
-    public void onAdLoadedListener() {
-        showToast("Ad  is loaded");
-    }
-
-    @Override
-    public void onCloseListener() {
-        showToast("Ad closed");
-    }
-
-    @Override
-    public void onAdExpandedListner() {
-        showToast("Ad onAdExpandedListner");
-    }
-
-    @Override
-    public void onAdClickedListener() {
-        showToast("Ad onAdClickedListener");
-    }
-
 
 }
